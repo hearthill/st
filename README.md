@@ -40,7 +40,7 @@ features that make it literally the best terminal emulator ever:
 You should have xlib header files and libharfbuzz build files installed.
 
 ```
-git clone https://github.com/Pygmicaesar/st
+git clone https://github.com/hearthill/st
 cd st
 sudo make install
 ```
